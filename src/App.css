@@ -1,0 +1,60 @@
+.form-control-bg-light {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.form-control-bg-dark {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #252729;
+    border-radius: 5px;
+}
+.form-control-bg-Bluedark {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #0d314b;
+    border-radius: 5px;
+}
+
+.form-control-bg-Greendark {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #1c3b0e;
+    border-radius: 5px;
+}
+
+.card-Greendark {
+    width: 100%;
+    color: white;
+    background-color: #1c3b0e;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.card-Bluedark {
+    width: 100%;
+    color: white;
+    background-color: #0d314b;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.card-dark {
+    width: 100%;
+    color: white;
+    background-color: #252729;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.card-bg-light {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
